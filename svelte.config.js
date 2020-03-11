@@ -7,3 +7,4 @@ module.exports = {
     typescript: { transpileOnly: true, tsconfigDirectory: '.',}
   })
 };
+// set svelte.plugin.css.diagnostics.enable in vs code
